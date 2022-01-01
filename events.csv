@@ -1,0 +1,107 @@
+level 	 num 	 statisticsType 	 startTime 	 parentId 	 name 	 rootKind 	 place 	 team2 	 team1 	 sortOrder 	 state 	 team1Id 	 namePrefix 	 sportId 	 kind 	 id 	 priority 	 team2Id 	 
+3 	 58058 	 none 	 1641059400 	 31935232 	 1-й тайм угловые 	 400000 	 live 	 none 	 none 	 2-H0B4J-tne1+38-tog++39-tog- 	 none 	 0 	  	 13113 	 10100201 	 31935233 	 2 	 0 	 
+2 	 58057 	 none 	 1641059400 	 31931011 	 угловые 	 400000 	 live 	 none 	 none 	 2-H0B4J-tne1+38-tog+ 	 none 	 0 	  	 13113 	 400100 	 31935232 	 2 	 0 	 
+1 	 53653 	 BetRadar 	 1641059400 	 none 	  	 1 	 live 	 Бейтар Иерусалим 	 Маккаби Нетания 	 2-H0B4J-tne1 	 none 	 381792 	  	 13113 	 1 	 31931011 	 4 	 414321 	 
+2 	 55864 	 none 	 1641058200 	 31967827 	 1-й тайм 	 100200 	 live 	 none 	 none 	 2-GiBcr-twdH+-Y-twdI 	 none 	 0 	  	 11918 	 100201 	 31967828 	 2 	 0 	 
+1 	 55863 	 BetRadar 	 1641058200 	 none 	  	 1 	 live 	 Вест Хэм Юн 	 Кристал Пэлас 	 2-GiBcr-twdH 	 {'willBeLive': True} 	 474343 	  	 11918 	 1 	 31967827 	 7 	 424414 	 
+2 	 52430 	 none 	 1641059220 	 31999444 	 1-й тайм 	 100200 	 live 	 none 	 none 	 2-GzAnB-u2LI+-Y-u2LJ 	 none 	 0 	  	 71532 	 100201 	 31999445 	 2 	 0 	 
+1 	 52429 	 BetRadar 	 1641059220 	 none 	  	 1 	 live 	 Ливерпуль (Flewless_phoenix) 	 Челси (mooneycb) 	 2-GzAnB-u2LI 	 none 	 405534 	  	 71532 	 1 	 31999444 	 2 	 413915 	 
+2 	 58056 	 none 	 1641059400 	 31931011 	 2-й тайм 	 100200 	 live 	 none 	 none 	 2-H0B4J-tne1+-i-tofz 	 none 	 0 	  	 13113 	 100202 	 31935231 	 2 	 0 	 
+2 	 53654 	 none 	 1641059400 	 31931011 	 1-й тайм 	 100200 	 live 	 none 	 none 	 2-H0B4J-tne1+-Y-tne2 	 none 	 0 	  	 13113 	 100201 	 31931012 	 2 	 0 	 
+2 	 47592 	 none 	 1641057600 	 31994627 	 4-й сет 	 100500 	 live 	 none 	 none 	 2-GY9bY-u1A1+2C-u1A5 	 none 	 0 	  	 55118 	 100504 	 31994631 	 4 	 0 	 
+1 	 47588 	 None 	 1641057600 	 none 	  	 1 	 live 	 Пронин О 	 Михайлов И 	 2-GY9bY-u1A1 	 none 	 378126 	  	 55118 	 1 	 31994627 	 4 	 377911 	 
+2 	 54633 	 none 	 1641052800 	 31931005 	 фолы 	 400000 	 live 	 none 	 none 	 2-FIB4D-tndx+3S-u2tP 	 none 	 0 	  	 13113 	 400300 	 32001627 	 4 	 0 	 
+1 	 53647 	 BetRadar 	 1641052800 	 none 	  	 1 	 live 	 Хапоэль Хадера 	 Хапоэль Иерусалим 	 2-FIB4D-tndx 	 none 	 410299 	  	 13113 	 1 	 31931005 	 4 	 414327 	 
+2 	 60109 	 none 	 1641058800 	 32000130 	 2-й сет 	 100500 	 live 	 none 	 none 	 2-GsAxv-u2W0+1u-u4HI 	 none 	 0 	  	 54129 	 100502 	 32007380 	 2 	 0 	 
+1 	 53115 	 None 	 1641058800 	 none 	  	 1 	 live 	 Окопный В 	 Гиль Т 	 2-GsAxv-u2W0 	 none 	 419548 	  	 54129 	 1 	 32000130 	 2 	 419325 	 
+2 	 53116 	 none 	 1641058800 	 32000130 	 1-й сет 	 100500 	 live 	 none 	 none 	 2-GsAxv-u2W0+1k-u2W1 	 none 	 0 	  	 54129 	 100501 	 32000131 	 2 	 0 	 
+2 	 52433 	 none 	 1641059220 	 31999447 	 1-й тайм 	 100200 	 live 	 none 	 none 	 2-GzAnE-u2LL+-Y-u2LM 	 none 	 0 	  	 71532 	 100201 	 31999448 	 2 	 0 	 
+1 	 52432 	 BetRadar 	 1641059220 	 none 	  	 1 	 live 	 Тоттенхэм (Chellovekk) 	 Ман. Юнайтед (Kodak) 	 2-GzAnE-u2LL 	 {'willBeLive': True} 	 416422 	  	 71532 	 1 	 31999447 	 2 	 414637 	 
+2 	 60076 	 none 	 1641058500 	 32000080 	 3-й сет 	 100500 	 live 	 none 	 none 	 2-GnAx7-u2VE+22-u4Gn 	 none 	 0 	  	 54129 	 100503 	 32007347 	 2 	 0 	 
+1 	 53065 	 None 	 1641058500 	 none 	  	 1 	 live 	 Хомутовский Ю 	 Потуридис Г 	 2-GnAx7-u2VE 	 none 	 376631 	  	 54129 	 1 	 32000080 	 2 	 375722 	 
+2 	 60040 	 none 	 1641058200 	 31997658 	 2-й тайм 	 100200 	 live 	 none 	 none 	 2-GiALH-u1vO+-i-u4GD 	 none 	 0 	  	 60539 	 100202 	 32007311 	 2 	 0 	 
+1 	 50643 	 BetRadar 	 1641058200 	 none 	  	 1 	 live 	 Хапоэль Сандала Гильбоа 	 Ихуд Бней Бака 	 2-GiALH-u1vO 	 none 	 432205 	  	 60539 	 1 	 31997658 	 2 	 415176 	 
+2 	 60039 	 none 	 1641058200 	 31997658 	 1-й тайм 	 100200 	 live 	 none 	 none 	 2-GiALH-u1vO+-Y-u4GC 	 none 	 0 	  	 60539 	 100201 	 32007310 	 2 	 0 	 
+3 	 59836 	 none 	 1641058200 	 32007105 	 2-я четверть заб/3-х очковые 	 420000 	 live 	 none 	 none 	 2-Gi9+c-u0Z5+6u-u4D-+6w-u4D1 	 {'willBeLive': True} 	 0 	  	 32789 	 30400402 	 32007107 	 2 	 0 	 
+2 	 59834 	 none 	 1641058200 	 31992135 	 заб/3-х очковые 	 420000 	 live 	 none 	 none 	 2-Gi9+c-u0Z5+6u-u4D- 	 {'willBeLive': True} 	 0 	  	 32789 	 420400 	 32007105 	 2 	 0 	 
+1 	 45096 	 BetRadar 	 1641058200 	 none 	  	 1 	 live 	 Ирони Нагария 	 Маккаби Хайфа 	 2-Gi9+c-u0Z5 	 {'willBeLive': True} 	 446422 	  	 32789 	 1 	 31992135 	 2 	 443882 	 
+3 	 59841 	 none 	 1641058200 	 32007110 	 2-я четверть заб/2-х очковые 	 420000 	 live 	 none 	 none 	 2-Gi9+c-u0Z5+6k-u4D4+6m-u4D6 	 {'willBeLive': True} 	 0 	  	 32789 	 30300402 	 32007112 	 2 	 0 	 
+2 	 59839 	 none 	 1641058200 	 31992135 	 заб/2-х очковые 	 420000 	 live 	 none 	 none 	 2-Gi9+c-u0Z5+6k-u4D4 	 {'willBeLive': True} 	 0 	  	 32789 	 420300 	 32007110 	 2 	 0 	 
+2 	 47870 	 none 	 1641057600 	 31994905 	 4-й сет 	 100500 	 live 	 none 	 none 	 2-GY9fu-u1EN+2C-u1ER 	 none 	 0 	  	 71596 	 100504 	 31994909 	 2 	 0 	 
+1 	 47866 	 None 	 1641057600 	 none 	  	 1 	 live 	 Андел Я 	 Коларж М 	 2-GY9fu-u1EN 	 none 	 392439 	  	 71596 	 1 	 31994905 	 2 	 512129 	 
+2 	 60042 	 none 	 1641058200 	 32000128 	 3-й сет 	 100500 	 live 	 none 	 none 	 2-GiAxt-u2W++22-u4GF 	 none 	 0 	  	 54129 	 100503 	 32007313 	 2 	 0 	 
+1 	 53113 	 None 	 1641058200 	 none 	  	 1 	 live 	 Стукалов В 	 Цой К 	 2-GiAxt-u2W+ 	 none 	 375202 	  	 54129 	 1 	 32000128 	 2 	 393708 	 
+2 	 47816 	 none 	 1641057600 	 31994850 	 5-й сет 	 100500 	 live 	 none 	 none 	 2-GY9f1-u1DW+2M-u1Db 	 none 	 0 	  	 60199 	 100505 	 31994855 	 2 	 0 	 
+1 	 47811 	 None 	 1641057600 	 none 	  	 1 	 live 	 Швец Й 	 Кашински З 	 2-GY9f1-u1DW 	 none 	 389141 	  	 60199 	 1 	 31994850 	 2 	 393986 	 
+2 	 60075 	 none 	 1641058500 	 32000080 	 2-й сет 	 100500 	 live 	 none 	 none 	 2-GnAx7-u2VE+1u-u4Gm 	 none 	 0 	  	 54129 	 100502 	 32007346 	 2 	 0 	 
+2 	 60013 	 none 	 1641058200 	 31992135 	 2-я четверть 	 100400 	 live 	 none 	 none 	 2-Gi9+c-u0Z5+16-u4Fo 	 {'willBeLive': True} 	 0 	  	 32789 	 100402 	 32007284 	 2 	 0 	 
+2 	 47491 	 none 	 1641058500 	 31994528 	 2-й сет 	 100500 	 live 	 none 	 none 	 2-Gn9a--u18U+1u-u18W 	 none 	 0 	  	 55491 	 100502 	 31994530 	 2 	 0 	 
+1 	 47489 	 None 	 1641058500 	 none 	  	 1 	 live 	 Клавденков А 	 Ильичев М 	 2-Gn9a--u18U 	 none 	 419818 	  	 55491 	 1 	 31994528 	 2 	 378375 	 
+2 	 47490 	 none 	 1641058500 	 31994528 	 1-й сет 	 100500 	 live 	 none 	 none 	 2-Gn9a--u18U+1k-u18V 	 none 	 0 	  	 55491 	 100501 	 31994529 	 2 	 0 	 
+2 	 54638 	 none 	 1641052800 	 31931005 	 удары от ворот 	 400000 	 live 	 none 	 none 	 2-FIB4D-tndx+4Y-u2tU 	 none 	 0 	  	 13113 	 401100 	 32001632 	 4 	 0 	 
+2 	 47377 	 none 	 1641058500 	 31994414 	 2-й сет 	 100500 	 live 	 none 	 none 	 2-Gn9YD-u16i+1u-u16k 	 none 	 0 	  	 55117 	 100502 	 31994416 	 4 	 0 	 
+1 	 47375 	 None 	 1641058500 	 none 	  	 1 	 live 	 Гребенюк Б 	 Никулин С 	 2-Gn9YD-u16i 	 none 	 371358 	  	 55117 	 1 	 31994414 	 4 	 374264 	 
+2 	 47376 	 none 	 1641058500 	 31994414 	 1-й сет 	 100500 	 live 	 none 	 none 	 2-Gn9YD-u16i+1k-u16j 	 none 	 0 	  	 55117 	 100501 	 31994415 	 4 	 0 	 
+2 	 59389 	 none 	 1641056100 	 31990371 	 3-й сет 	 100500 	 live 	 none 	 none 	 2-G98bA-u07X+22-u462 	 none 	 0 	  	 72164 	 100503 	 32006660 	 2 	 0 	 
+1 	 43468 	 BetRadar 	 1641056100 	 none 	  	 1 	 live 	 ЕС Бетиуа 	 КРБ Шлеф 	 2-G98bA-u07X 	 none 	 530028 	  	 72164 	 1 	 31990371 	 2 	 530027 	 
+2 	 59388 	 none 	 1641056100 	 31990371 	 2-й сет 	 100500 	 live 	 none 	 none 	 2-G98bA-u07X+1u-u461 	 none 	 0 	  	 72164 	 100502 	 32006659 	 2 	 0 	 
+2 	 60041 	 none 	 1641058200 	 32000128 	 2-й сет 	 100500 	 live 	 none 	 none 	 2-GiAxt-u2W++1u-u4GE 	 none 	 0 	  	 54129 	 100502 	 32007312 	 2 	 0 	 
+2 	 54635 	 none 	 1641052800 	 31931005 	 офсайды 	 400000 	 live 	 none 	 none 	 2-FIB4D-tndx+3m-u2tR 	 none 	 0 	  	 13113 	 400500 	 32001629 	 4 	 0 	 
+2 	 54636 	 none 	 1641052800 	 31931005 	 штанги или перекладины 	 400000 	 live 	 none 	 none 	 2-FIB4D-tndx+44-u2tS 	 none 	 0 	  	 13113 	 400800 	 32001630 	 4 	 0 	 
+3 	 38116 	 none 	 1641058200 	 31985012 	 1-й тайм жёлтые карты 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+3I-u+po+3J-u+pv 	 none 	 0 	  	 11918 	 10200201 	 31985019 	 2 	 0 	 
+2 	 38109 	 none 	 1641058200 	 31967827 	 жёлтые карты 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+3I-u+po 	 none 	 0 	  	 11918 	 400200 	 31985012 	 2 	 0 	 
+3 	 55870 	 none 	 1641058200 	 31967830 	 1-й тайм угловые 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+38-twdK+39-twdO 	 none 	 0 	  	 11918 	 10100201 	 31967834 	 2 	 0 	 
+2 	 55866 	 none 	 1641058200 	 31967827 	 угловые 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+38-twdK 	 none 	 0 	  	 11918 	 400100 	 31967830 	 2 	 0 	 
+3 	 38117 	 none 	 1641058200 	 31985013 	 1-й тайм фолы 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+3S-u+pp+3T-u+pw 	 none 	 0 	  	 11918 	 10300201 	 31985020 	 2 	 0 	 
+2 	 38110 	 none 	 1641058200 	 31967827 	 фолы 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+3S-u+pp 	 none 	 0 	  	 11918 	 400300 	 31985013 	 2 	 0 	 
+3 	 38118 	 none 	 1641058200 	 31985014 	 1-й тайм удары в створ 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+3c-u+pq+3d-u+px 	 none 	 0 	  	 11918 	 10400201 	 31985021 	 2 	 0 	 
+2 	 38111 	 none 	 1641058200 	 31967827 	 удары в створ 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+3c-u+pq 	 none 	 0 	  	 11918 	 400400 	 31985014 	 2 	 0 	 
+3 	 38119 	 none 	 1641058200 	 31985015 	 1-й тайм офсайды 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+3m-u+pr+3n-u+py 	 none 	 0 	  	 11918 	 10500201 	 31985022 	 2 	 0 	 
+2 	 38112 	 none 	 1641058200 	 31967827 	 офсайды 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+3m-u+pr 	 none 	 0 	  	 11918 	 400500 	 31985015 	 2 	 0 	 
+2 	 58662 	 none 	 1641058200 	 31967827 	 Что раньше 	 100200 	 live 	 none 	 none 	 2-GiBcr-twdH+0Z-u3wh 	 {'willBeLive': True} 	 0 	  	 11918 	 101900 	 32005933 	 7 	 0 	 
+3 	 55873 	 none 	 1641058200 	 31967833 	 1-й тайм видеопросмотры 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+4i-twdN+4j-twdR 	 none 	 0 	  	 11918 	 13500201 	 31967837 	 2 	 0 	 
+2 	 55869 	 none 	 1641058200 	 31967827 	 видеопросмотры 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+4i-twdN 	 none 	 0 	  	 11918 	 403500 	 31967833 	 2 	 0 	 
+2 	 41237 	 none 	 1641058200 	 31949570 	 Что раньше 	 100200 	 live 	 none 	 none 	 2-Gi79E-tsA0+0Z-u-ag 	 none 	 0 	  	 13216 	 101900 	 31988140 	 4 	 0 	 
+1 	 37584 	 BetRadar 	 1641058200 	 none 	  	 1 	 live 	 Ларн 	 Гленторан 	 2-Gi79E-tsA0 	 none 	 416450 	  	 13216 	 1 	 31949570 	 4 	 416444 	 
+3 	 38122 	 none 	 1641058200 	 31985018 	 1-й тайм удары от ворот 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+4Y-u+pu+4F-u+q- 	 none 	 0 	  	 11918 	 11100201 	 31985025 	 2 	 0 	 
+2 	 38115 	 none 	 1641058200 	 31967827 	 удары от ворот 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+4Y-u+pu 	 none 	 0 	  	 11918 	 401100 	 31985018 	 2 	 0 	 
+1 	 52996 	 BetRadar 	 1641058200 	 none 	  	 1 	 live 	 Чехия (gatz) 	 Хорватия (Goku) 	 2-GiAw2-u2U9 	 {'willBeLive': True} 	 514718 	  	 72560 	 1 	 32000011 	 2 	 511992 	 
+3 	 38121 	 none 	 1641058200 	 31985017 	 1-й тайм вброс аутов 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+4O-u+pt+4F-u+q+ 	 none 	 0 	  	 11918 	 11000201 	 31985024 	 2 	 0 	 
+2 	 38114 	 none 	 1641058200 	 31967827 	 вброс аутов 	 400000 	 live 	 none 	 none 	 2-GiBcr-twdH+4O-u+pt 	 none 	 0 	  	 11918 	 401000 	 31985017 	 2 	 0 	 
+2 	 37586 	 none 	 1641058200 	 31949570 	 2-й тайм 	 100200 	 live 	 none 	 none 	 2-Gi79E-tsA0+-i-tsA2 	 none 	 0 	  	 13216 	 100202 	 31949572 	 4 	 0 	 
+2 	 37585 	 none 	 1641058200 	 31949570 	 1-й тайм 	 100200 	 live 	 none 	 none 	 2-Gi79E-tsA0+-Y-tsA1 	 none 	 0 	  	 13216 	 100201 	 31949571 	 4 	 0 	 
+2 	 55865 	 none 	 1641058200 	 31967827 	 2-й тайм 	 100200 	 live 	 none 	 none 	 2-GiBcr-twdH+-i-twdJ 	 none 	 0 	  	 11918 	 100202 	 31967829 	 2 	 0 	 
+1 	 48737 	 BetRadar 	 1641057900 	 none 	  	 1 	 live 	 Юта Джаз (Dazai) 	 Атланта Хокс (Kyubi) 	 2-Gd9tV-u1S+ 	 none 	 502580 	  	 70522 	 1 	 31995776 	 2 	 499204 	 
+2 	 32428 	 none 	 1641056400 	 31979346 	 1-я половина 	 100300 	 live 	 none 	 none 	 2-GE5uf-tzRG+0U-tzRH 	 none 	 0 	  	 19166 	 100301 	 31979347 	 4 	 0 	 
+1 	 32427 	 BetRadar 	 1641056400 	 none 	  	 1 	 live 	 Мемфис (студ) 	 Уичита Стэйт (студ) 	 2-GE5uf-tzRG 	 {'willBeLive': True} 	 411895 	  	 19166 	 1 	 31979346 	 4 	 409837 	 
+1 	 47637 	 BetRadar 	 1641057900 	 none 	  	 1 	 live 	 Бруклин Нетс (AntoxaCreative) 	 Чикаго Буллз (macmafin8) 	 2-Gd9cJ-u1Ao 	 {'webOnly': True} 	 459748 	  	 72907 	 1 	 31994676 	 2 	 521427 	 
+1 	 48827 	 BetRadar 	 1641057900 	 none 	  	 1 	 live 	 Финикс Санз (Horens) 	 Майами Хит (HURRICANE) 	 2-Gd9uv-u1TO 	 none 	 530049 	  	 70522 	 1 	 31995866 	 2 	 499182 	 
+1 	 32418 	 BetRadar 	 1641056400 	 none 	  	 1 	 live 	 Вест Вирджиния (студ) 	 Техас  Лонгхорнс (cтуд) 	 2-GE5uW-tzR7 	 {'willBeLive': True} 	 411414 	  	 19166 	 1 	 31979337 	 4 	 410536 	 
+2 	 59176 	 none 	 1641057300 	 32000455 	 1-й сет 	 100500 	 live 	 none 	 none 	 2-GTB1+-u2b5+1k-u42j 	 none 	 0 	  	 73523 	 100501 	 32006447 	 2 	 0 	 
+1 	 53440 	 BetRadar 	 1641057300 	 none 	  	 1 	 live 	 Пикенс А.Т 	 Леон Э 	 2-GTB1+-u2b5 	 none 	 529444 	  	 73523 	 1 	 32000455 	 2 	 529341 	 
+1 	 31373 	 BetRadar 	 1641054600 	 none 	  	 1 	 live 	 Щецин 	 Хидротрак Радом 	 2-Fm5eB-tzAo 	 {'willBeLive': True} 	 433519 	  	 13639 	 1 	 31978292 	 4 	 433886 	 
+2 	 35112 	 none 	 1641057300 	 31947091 	 1-й тайм 	 100200 	 live 	 none 	 none 	 2-GT6Yb-trZH+-Y-trZI 	 none 	 0 	  	 70511 	 100201 	 31947092 	 4 	 0 	 
+1 	 35111 	 BetRadar 	 1641057300 	 none 	  	 1 	 live 	 Манстер 	 Конахт 	 2-GT6Yb-trZH 	 none 	 383460 	  	 70511 	 1 	 31947091 	 4 	 383457 	 
+2 	 35110 	 none 	 1641057300 	 31947089 	 1-й тайм 	 100200 	 live 	 none 	 none 	 2-GT6YZ-trZF+-Y-trZG 	 none 	 0 	  	 70511 	 100201 	 31947090 	 4 	 0 	 
+1 	 35109 	 BetRadar 	 1641057300 	 none 	  	 1 	 live 	 Оспрэйс 	 Скарлетс 	 2-GT6YZ-trZF 	 none 	 383454 	  	 70511 	 1 	 31947089 	 4 	 386352 	 
+1 	 42415 	 BetRadar 	 1641052800 	 none 	  	 1 	 live 	 Аль-Нафт Багдад 	 Аль-Кува Аль-Джавия 	 2-FI8Kj-u-t4 	 {'willBeLive': True} 	 422830 	  	 16554 	 1 	 31989318 	 2 	 424347 	 
+2 	 59371 	 none 	 1641056400 	 31609353 	 2-я четверть 	 100400 	 live 	 none 	 none 	 2-GEDG9-sZ67+16-u45m 	 {'willBeLive': True} 	 0 	  	 13298 	 100402 	 32006642 	 4 	 0 	 
+1 	 62603 	 BetRadar 	 1641056400 	 none 	  	 1 	 live 	 Пенн Стэйт Ниттани Лайонз 	 Арканзас Рейзорбэкс 	 2-GEDG9-sZ67 	 {'willBeLive': True} 	 494520 	  	 13298 	 1 	 31609353 	 4 	 494498 	 
+1 	 42261 	 BetRadar 	 1641055800 	 none 	  	 1 	 live 	 Аль-Шабаб Эр-Рияд 	 Аль-Ахли Джидда 	 2-G48IJ-ttIH 	 none 	 416343 	  	 13888 	 1 	 31954195 	 4 	 410529 	 
+1 	 38623 	 BetRadar 	 1641056400 	 none 	  	 1 	 live 	 Цейрей Тира 	 Хапоэль Пардесия 	 2-GE7PT-u+xq 	 none 	 415742 	  	 60542 	 1 	 31985526 	 2 	 499177 	 
+1 	 32424 	 BetRadar 	 1641056400 	 none 	  	 1 	 live 	 Крейтон (студ) 	 Маркетт Голден Иглз (студ) 	 2-GE5uc-tzRD 	 {'willBeLive': True} 	 410644 	  	 19166 	 1 	 31979343 	 4 	 411280 	 
+1 	 50609 	 BetRadar 	 1641056400 	 none 	  	 1 	 live 	 Умм-Салаль U23 	 Аль-Араби Доха U23 	 2-GEAKl-u1us 	 none 	 420021 	  	 41717 	 1 	 31997624 	 2 	 418866 	 
+2 	 41546 	 none 	 1641055800 	 31954195 	 Что раньше 	 100200 	 live 	 none 	 none 	 2-G48IJ-ttIH+0Z-u-fV 	 none 	 0 	  	 13888 	 101900 	 31988449 	 2 	 0 	 
+2 	 41547 	 none 	 1641055800 	 31954195 	 жёлтые карты 	 400000 	 live 	 none 	 none 	 2-G48IJ-ttIH+3I-u-fW 	 none 	 0 	  	 13888 	 400200 	 31988450 	 2 	 0 	 
+2 	 42264 	 none 	 1641055800 	 31954195 	 угловые 	 400000 	 live 	 none 	 none 	 2-G48IJ-ttIH+38-ttIK 	 none 	 0 	  	 13888 	 400100 	 31954198 	 2 	 0 	 
+2 	 58442 	 none 	 1641048360 	 32000452 	 3-й сет 	 100500 	 live 	 none 	 none 	 2-E8B0x-u2b2+22-u3tF 	 none 	 0 	  	 73523 	 100503 	 32005713 	 2 	 0 	 
+1 	 53437 	 BetRadar 	 1641048360 	 none 	  	 1 	 live 	 Ши Б 	 Котцен А 	 2-E8B0x-u2b2 	 none 	 394367 	  	 73523 	 1 	 32000452 	 2 	 529344 	 
+2 	 59053 	 none 	 1641054600 	 31978292 	 заб/2-х очковые 	 420000 	 live 	 none 	 none 	 2-Fm5eB-tzAo+6k-u40o 	 {'willBeLive': True} 	 0 	  	 13639 	 420300 	 32006324 	 4 	 0 	 
+2 	 59044 	 none 	 1641054600 	 31978292 	 заб/3-х очковые 	 420000 	 live 	 none 	 none 	 2-Fm5eB-tzAo+6u-u40f 	 {'willBeLive': True} 	 0 	  	 13639 	 420400 	 32006315 	 4 	 0 	 
+1 	 35128 	 BetRadar 	 1641054600 	 none 	  	 1 	 live 	 Бристоль Беарс 	 Эксетер Чифс 	 2-Fm6Ys-trZY 	 none 	 383441 	  	 64142 	 1 	 31947108 	 2 	 383437 	 
+2 	 43797 	 none 	 1641053700 	 31990649 	 заб/2-х очковые 	 420000 	 live 	 none 	 none 	 2-FX8gG-u0Bt+6k-u0Bw 	 none 	 0 	  	 13837 	 420300 	 31990652 	 2 	 0 	 
+1 	 43794 	 BetRadar 	 1641053700 	 none 	  	 1 	 live 	 Хапоэль Холон 	 Хапоэль Эйлат 	 2-FX8gG-u0Bt 	 {'willBeLive': True} 	 434564 	  	 13837 	 1 	 31990649 	 4 	 411427 	 
+2 	 43798 	 none 	 1641053700 	 31990649 	 заб/3-х очковые 	 420000 	 live 	 none 	 none 	 2-FX8gG-u0Bt+6u-u0Bx 	 none 	 0 	  	 13837 	 420400 	 31990653 	 2 	 0 	 
+2 	 54632 	 none 	 1641052800 	 31931005 	 жёлтые карты 	 400000 	 live 	 none 	 none 	 2-FIB4D-tndx+3I-u2tO 	 none 	 0 	  	 13113 	 400200 	 32001626 	 4 	 0 	 
+2 	 58060 	 none 	 1641052800 	 31931005 	 угловые 	 400000 	 live 	 none 	 none 	 2-FIB4D-tndx+38-tog1 	 none 	 0 	  	 13113 	 400100 	 31935235 	 2 	 0 	 
+1 	 31859 	 None 	 1641052800 	 none 	  	 1 	 live 	 ФК Азам 	 Симба 	 2-FI5ln-tzIO 	 none 	 421701 	  	 31170 	 1 	 31978778 	 2 	 422214 	 

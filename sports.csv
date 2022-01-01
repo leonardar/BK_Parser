@@ -1,0 +1,36 @@
+parentId 	 id 	 sortOrder 	 name 	 parentIds 	 regionId 	 tabCaption 	 kind 	 
+1 	 13113 	 1+++8+++-+++-&wP+zzv++16+19g+09C+1At 	 Футбол. Израиль. Премьер-Лига 	 [13036] 	 376 	 none 	 segment 	 
+none 	 1 	 1+++8+++-+++- 	 Футбол 	 none 	 none 	 none 	 sport 	 
+1 	 11918 	 1+++8+++-+++-&um+yjs+++S+0uB++4i+0uC 	 Футбол. Англия. Премьер-Лига 	 [11917] 	 643688 	 none 	 segment 	 
+1 	 71532 	 1+++8+++-+++-|+++ix-7DT+BTX-Vw6+EsU++00+FRg 	 Футбол. FIFA 22. ECF. FA Cup. 2x4 мин. 	 [69152, 55267] 	 none 	 none 	 segment 	 
+3088 	 55118 	 1++-4+++6++kE&zzzav+++++1zz-N-K+BRC 	 Настольный теннис. Россия. Лига Про А5. Москва 	 [16383] 	 643 	 none 	 segment 	 
+none 	 3088 	 1++-4+++6++kE 	 Настольный теннис 	 none 	 none 	 Н. теннис 	 sport 	 
+3088 	 54129 	 1++-4+++6++kE&zzzsx+++++1zz-KKs+BBl 	 Настольный теннис. Setka Cup 	 [16383] 	 804 	 none 	 segment 	 
+1 	 60539 	 1+++8+++-+++-&yj+zzx++16+19g-SRw+Clv 	 Футбол. Израиль. Лига Бет. Север 	 [13036] 	 376 	 none 	 segment 	 
+3 	 32789 	 1+++S+++1+++1&zuzAx++-Y+1Kj+T4I+6+J 	 Баскетбол. Израиль. Национальная лига 	 [13743] 	 376 	 none 	 segment 	 
+none 	 3 	 1+++S+++1+++1 	 Баскетбол 	 none 	 none 	 none 	 sport 	 
+3088 	 71596 	 1++-4+++6++kE&zzzfx+++++1zz0Rxq+FSg 	 Настольный теннис. Чехия. Лига Про А14. Либерец 	 [16383] 	 203 	 none 	 segment 	 
+3088 	 60199 	 1++-4+++6++kE&zzzfx+++++1zz0RrG+Cgb 	 Настольный теннис. Чехия. Лига Про А12. Либерец 	 [16383] 	 203 	 none 	 segment 	 
+3088 	 55491 	 1++-4+++6++kE&zzzbx+++++1zz-O-Y+BX1 	 Настольный теннис. Россия. Лига Про А6. Москва 	 [16383] 	 643 	 none 	 segment 	 
+3088 	 55117 	 1++-4+++6++kE&zzzVv+++++1zz-N-A+BRB 	 Настольный теннис. Россия. Лига Про А4. Москва 	 [16383] 	 643 	 none 	 segment 	 
+9 	 72164 	 1+++m+++3+++7x++6u+3cF-YOY+FbY 	 Волейбол. Алжир. 1-й дивизион 	 [23057] 	 12 	 none 	 segment 	 
+none 	 9 	 1+++m+++3+++7 	 Волейбол 	 none 	 none 	 none 	 sport 	 
+1 	 13216 	 1+++8+++-+++-&wd+zzv++2b+1CT++-Y+1CU 	 Футбол. Сев.Ирландия. Премьер-Лига 	 [13215] 	 643691 	 none 	 segment 	 
+3 	 72560 	 1+++S+++1+++1|+-+-x+++X+1G6-Rf++C-X+++8+DO9+++8+Fhj+++8+Fhk 	 Баскетбол. NBA2K20. CLA Киберкубок Мира. 4х5 мин. 	 [72559, 63115, 57443, 13448] 	 none 	 none 	 segment 	 
+3 	 70522 	 1+++S+++1+++1|+-+0x+MOd+CLZ+++I+DO7+++m+FBu 	 Баскетбол. NBA2K22. CLA. 4х5 мин. 	 [63113, 58853] 	 none 	 none 	 segment 	 
+3 	 19166 	 1+++S+++1+++1&zyyiv++0r+3bw+9gu+2fS 	 Баскетбол. NСАА 	 [23036] 	 840 	 none 	 segment 	 
+3 	 72907 	 1+++S+++1+++1|+-++x-U5O+FlP+++8+FlQ+++8+Fn9 	 Баскетбол. NBA 2K22. Лига про. Хабаровск 4х5 twitch.tv/ligapro_nba/ligapro6/ligapro8 	 [72796, 72795] 	 1 	 none 	 segment 	 
+4 	 73523 	 1+++w+++5+++2&zzzxx+0QD+++N++2W+Fwn 	 Муж. UTR Pro Tennis Series. Нью-Йорк 	 [25] 	 840 	 none 	 segment 	 
+none 	 4 	 1+++w+++5+++2 	 Теннис 	 none 	 none 	 none 	 sport 	 
+3 	 13639 	 1+++S+++1+++1&zvz0v++-s+1I2+0vU+1J5 	 Баскетбол. Польша. Экстралига 	 [13572] 	 616 	 none 	 segment 	 
+16 	 70511 	 1++1a+++O+++E&zU+zzv+++0+1T9-YRW+FBj 	 Регби. Регби-Союз. Юнайтед Чемпионшип 	 [14283] 	 none 	 none 	 segment 	 
+none 	 16 	 1++1a+++O+++E 	 Регби 	 none 	 none 	 none 	 sport 	 
+1 	 16554 	 1+++8+++-+++-&zL+zzx++7o+20d+1B8+20e 	 Футбол. Ирак. Суперлига 	 [16553] 	 368 	 none 	 segment 	 
+6 	 13298 	 1++1G+++P+++4v+++++6vt+0VE+1Dm 	 Американский футбол. NCAA 	 [36601] 	 840 	 none 	 segment 	 
+none 	 6 	 1++1G+++P+++4 	 Американский футбол 	 none 	 none 	 Ам. футбол 	 sport 	 
+1 	 13888 	 1+++8+++-+++-&xJ+zzv++8h+1Mz+1pS+1N+ 	 Футбол. Саудовская Аравия. Премьер-Лига 	 [13887] 	 682 	 none 	 segment 	 
+1 	 60542 	 1+++8+++-+++-&yj+zzx++16+19g-SS4+Cly 	 Футбол. Израиль. Лига Бет. Юг 	 [13036] 	 376 	 none 	 segment 	 
+1 	 41717 	 1+++8+++-+++-&zP+zzx++8++1Hs+qqI+89p 	 Футбол. До 23 лет. Катар. Чемпионат 	 [13560] 	 634 	 none 	 segment 	 
+16 	 64142 	 1++1a+++O+++E&zS+zzx+++0+1T9-YNm+DeC 	 Регби. Регби-Союз. Англия. Премьер-лига 	 [14283] 	 643688 	 none 	 segment 	 
+3 	 13837 	 1+++S+++1+++1&zr+zzv++-Y+1Kj+0tm+1MB 	 Баскетбол. Израиль. Суперлига 	 [13743] 	 376 	 none 	 segment 	 
+1 	 31170 	 1+++8+++-+++-&xN+zzx++Rh+5OB+PLY+5b0 	 Футбол. Танзания. Чемпионат 	 [30349] 	 834 	 none 	 segment 	 
