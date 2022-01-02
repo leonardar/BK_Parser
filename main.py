@@ -106,7 +106,7 @@ def check_random_match(random_match):
         print(f'Матч {random_match} ещё не окончен')
         driver.close()
     except NoSuchElementException:
-        print('Матч завершён')
+        print(f'Матч {random_match} завершён')
         driver.close()
 
 
