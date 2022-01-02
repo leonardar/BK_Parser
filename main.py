@@ -8,6 +8,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.common.exceptions import NoSuchElementException
 
+
 # определяем ОС для дальнейшей настройки selenium Chrome
 def get_system_prefix():
     if platform.system() == 'Linux':
@@ -15,6 +16,7 @@ def get_system_prefix():
     elif platform.system() == 'Darwin':
         return 'mac'
     return 'exe'
+
 
 # Заполняем файлы sports, events, announcements для удобного чтения и изучения информации
 def category_fill(category):
@@ -57,12 +59,15 @@ def parse_games(sports, announcements, events):
 
     for game in announcements:
         for game_id in football_ids:
-            if game['segmentId'] == game_id:
-                team1 = game['team1']
-                team2 = game['team2']
-                gamer_name = f'{team1} - {team2}'
-                gamer_id = hashlib.md5(gamer_name.encode("utf-8")).hexdigest()
-                football_games.update({gamer_id: gamer_name})
+            try:
+                if game['segmentId'] == game_id:
+                    team1 = game['team1']
+                    team2 = game['team2']
+                    gamer_name = f'{team1} - {team2}'
+                    gamer_id = hashlib.md5(gamer_name.encode("utf-8")).hexdigest()
+                    football_games.update({gamer_id: gamer_name})
+            except KeyError:
+                pass
 
     for game in events:
         for game_id in football_ids:
@@ -102,7 +107,17 @@ def check_random_match(random_match):
         random_match_link = driver.find_element(By.XPATH,
                                                 '/html/body/div[4]/div/div[2]/div/div/div[2]/a').get_attribute('href')
         driver.get(random_match_link)
-        time.sleep(3)
+        try:
+            '''Ищем на странице инфо о завершении матча - на случай если мы попали в "пограничное" время и событие ещё 
+             отображается в поиске '''
+            event_completed_info = driver.find_element(By.XPATH,
+                                                       '//*[@id="page__wrap"]/div[4]/div[1]/div/div/div[2]/div/div/div['
+                                                       '1]/div/div/div/div/div[2]/div[1]/div/div[1]/div/span[1]')
+            if event_completed_info:
+                print(f'Матч {random_match} завершён')
+                driver.close()
+        except NoSuchElementException:
+            pass
         print(f'Матч {random_match} ещё не окончен')
         driver.close()
     except NoSuchElementException:
@@ -112,9 +127,8 @@ def check_random_match(random_match):
 
 if __name__ == '__main__':
     options = webdriver.ChromeOptions()
-    options.headless = True
-    options.add_argument('--disable-blink-features=AutomationControlled')
     options.headless = False
+    options.add_argument('--disable-blink-features=AutomationControlled')
     options.add_argument('window-size=1920,1080')
     prefix = get_system_prefix()
     service = Service(f'./chromedriver.{prefix}')
@@ -138,7 +152,7 @@ if __name__ == '__main__':
     events = data['events']
 
     result = parse_games(sports, announcements, events)
-    print(json.dumps(result, indent=4, ensure_ascii=False, sort_keys=True))
+    print(json.dumps(result, indent=4, ensure_ascii=False))
 
     # Выбираем случайный матч из списка live-матчей
     random_match = result[random.choice(list(result.keys()))]
