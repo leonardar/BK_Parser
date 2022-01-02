@@ -93,7 +93,7 @@ def check_random_match(random_match):
             break
         except NoSuchElementException:
             flag += 1
-            if flag == 1:
+            if flag == 5:
                 print('Попытки исчерпаны, перезапустите программу')
                 driver.close()
                 return
